@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+
 using namespace std;
 
 struct Person{
@@ -38,6 +39,7 @@ int main()
             }else{
                 found = true;
             }
+            j--;
         }
     }
 
@@ -47,4 +49,3 @@ int main()
     }
     return 0;
 }
-
