@@ -4,4 +4,4 @@ Lab resources for Computer Science Students
 
 ## How to test?
 Since there is no C++ project on this repository, create your own project on any IDEs.
-Then, copy and paste one of these file conent into your main file. Or download and add these files into your project.
+Then, copy and paste one of these file content into your main file. Or download and add these files into your project.
